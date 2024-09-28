@@ -2,7 +2,7 @@
    I'm a 19-year-old full-time student at a university college aspiring    to be a leader in the front end side of software development. 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning JAVA&C++
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 
 
 
-https://github.com/user-attachments/assets/25f0d78d-5a36-48e4-9b64-5534db85d08a
+
 
